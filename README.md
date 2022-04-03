@@ -3,4 +3,5 @@
    헤더, 사이드바, 풋터 디자인 및 라우팅과 폴더구조를 적용해놓은 상태입니다.
    styled-components가 적용되어있습니다.
 
-2. create-react-app을 typescript 템플릿으로 적용했습니다.
+2. create-react-app을 typescript 템플릿으로 시작했지만,
+   예시코드는 javascript로 작성했습니다.    
